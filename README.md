@@ -90,3 +90,11 @@ npm install  # or flutter pub get for Flutter
 
 # Start the development server
 npm start    # or flutter run
+
+
+````
+
+## Team 
+> Akshitha Gandhi S
+> Amirthavarshini G
+> Anubama I
